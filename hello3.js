@@ -1,0 +1,1 @@
+console.log('AHora si despues del tag');
